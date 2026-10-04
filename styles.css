@@ -54,12 +54,16 @@ main {
   gap: 1.5rem;
   align-items: center;
   padding-block: 2rem;
-}
+} 
 
-.hero img {
+ .hero img{
   inline-size: 100%;
   block-size: auto;
   border-radius: .5rem;
+} 
+span{
+  line-height:1;
+  font-size: .75rem;
 }
 
 .section {
